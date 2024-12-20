@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\metra\\OneDrive\\Desktop\\project\\ConsoleApp5.Prop\u0026indexer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B53EDC4F-DC66-4BFC-86F3-C68A40E151C1}|ConsoleApp5.Prop\u0026indexer\\ConsoleApp5.Prop\u0026indexer.csproj|c:\\users\\metra\\onedrive\\desktop\\project\\consoleapp5.prop\u0026indexer\\consoleapp5.prop\u0026indexer\\phonenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53EDC4F-DC66-4BFC-86F3-C68A40E151C1}|ConsoleApp5.Prop\u0026indexer\\ConsoleApp5.Prop\u0026indexer.csproj|solutionrelative:consoleapp5.prop\u0026indexer\\phonenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53EDC4F-DC66-4BFC-86F3-C68A40E151C1}|ConsoleApp5.Prop\u0026indexer\\ConsoleApp5.Prop\u0026indexer.csproj|c:\\users\\metra\\onedrive\\desktop\\project\\consoleapp5.prop\u0026indexer\\consoleapp5.prop\u0026indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53EDC4F-DC66-4BFC-86F3-C68A40E151C1}|ConsoleApp5.Prop\u0026indexer\\ConsoleApp5.Prop\u0026indexer.csproj|solutionrelative:consoleapp5.prop\u0026indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhoneNums.cs",
+              "DocumentMoniker": "C:\\Users\\metra\\OneDrive\\Desktop\\project\\ConsoleApp5.Prop\u0026indexer\\ConsoleApp5.Prop\u0026indexer\\PhoneNums.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5.Prop\u0026indexer\\PhoneNums.cs",
+              "ToolTip": "C:\\Users\\metra\\OneDrive\\Desktop\\project\\ConsoleApp5.Prop\u0026indexer\\ConsoleApp5.Prop\u0026indexer\\PhoneNums.cs",
+              "RelativeToolTip": "ConsoleApp5.Prop\u0026indexer\\PhoneNums.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:08:41.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\metra\\OneDrive\\Desktop\\project\\ConsoleApp5.Prop\u0026indexer\\ConsoleApp5.Prop\u0026indexer\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5.Prop\u0026indexer\\Program.cs",
+              "ToolTip": "C:\\Users\\metra\\OneDrive\\Desktop\\project\\ConsoleApp5.Prop\u0026indexer\\ConsoleApp5.Prop\u0026indexer\\Program.cs",
+              "RelativeToolTip": "ConsoleApp5.Prop\u0026indexer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:07:14.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

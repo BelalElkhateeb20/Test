@@ -1,0 +1,14 @@
+C:\Users\metra\OneDrive\Desktop\project\ConsoleApp5.Prop&indexer\ConsoleApp5.Prop&indexer\bin\Debug\net8.0\ConsoleApp5.Prop&indexer.exe
+C:\Users\metra\OneDrive\Desktop\project\ConsoleApp5.Prop&indexer\ConsoleApp5.Prop&indexer\bin\Debug\net8.0\ConsoleApp5.Prop&indexer.deps.json
+C:\Users\metra\OneDrive\Desktop\project\ConsoleApp5.Prop&indexer\ConsoleApp5.Prop&indexer\bin\Debug\net8.0\ConsoleApp5.Prop&indexer.runtimeconfig.json
+C:\Users\metra\OneDrive\Desktop\project\ConsoleApp5.Prop&indexer\ConsoleApp5.Prop&indexer\bin\Debug\net8.0\ConsoleApp5.Prop&indexer.dll
+C:\Users\metra\OneDrive\Desktop\project\ConsoleApp5.Prop&indexer\ConsoleApp5.Prop&indexer\bin\Debug\net8.0\ConsoleApp5.Prop&indexer.pdb
+C:\Users\metra\OneDrive\Desktop\project\ConsoleApp5.Prop&indexer\ConsoleApp5.Prop&indexer\obj\Debug\net8.0\ConsoleApp5.Prop&indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metra\OneDrive\Desktop\project\ConsoleApp5.Prop&indexer\ConsoleApp5.Prop&indexer\obj\Debug\net8.0\ConsoleApp5.Prop&indexer.AssemblyInfoInputs.cache
+C:\Users\metra\OneDrive\Desktop\project\ConsoleApp5.Prop&indexer\ConsoleApp5.Prop&indexer\obj\Debug\net8.0\ConsoleApp5.Prop&indexer.AssemblyInfo.cs
+C:\Users\metra\OneDrive\Desktop\project\ConsoleApp5.Prop&indexer\ConsoleApp5.Prop&indexer\obj\Debug\net8.0\ConsoleApp5.Prop&indexer.csproj.CoreCompileInputs.cache
+C:\Users\metra\OneDrive\Desktop\project\ConsoleApp5.Prop&indexer\ConsoleApp5.Prop&indexer\obj\Debug\net8.0\ConsoleApp5.Prop&indexer.dll
+C:\Users\metra\OneDrive\Desktop\project\ConsoleApp5.Prop&indexer\ConsoleApp5.Prop&indexer\obj\Debug\net8.0\refint\ConsoleApp5.Prop&indexer.dll
+C:\Users\metra\OneDrive\Desktop\project\ConsoleApp5.Prop&indexer\ConsoleApp5.Prop&indexer\obj\Debug\net8.0\ConsoleApp5.Prop&indexer.pdb
+C:\Users\metra\OneDrive\Desktop\project\ConsoleApp5.Prop&indexer\ConsoleApp5.Prop&indexer\obj\Debug\net8.0\ConsoleApp5.Prop&indexer.genruntimeconfig.cache
+C:\Users\metra\OneDrive\Desktop\project\ConsoleApp5.Prop&indexer\ConsoleApp5.Prop&indexer\obj\Debug\net8.0\ref\ConsoleApp5.Prop&indexer.dll
